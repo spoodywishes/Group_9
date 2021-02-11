@@ -12,10 +12,10 @@ public class Ali {
     //Which match?
     //remember we have a meeting at 4:30 pm
     //Thsi commit is from master branch
-
-    //hey I am back to master branch and trying to create conflict
-    //I hope it is working
-    //this is happening at least I think so
-
+    public static void main(String[] args) {
+        System.out.println("this is main method from olaSenior");
+        System.out.println("Well well well ");
+        System.out.println("new message");
+    }
 
 }
