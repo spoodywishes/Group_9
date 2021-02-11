@@ -14,6 +14,7 @@ public class Ali {
     //Thsi commit is from master branch
     public static void main(String[] args) {
         System.out.println("this is main method from olaSenior");
+        System.out.println("Well well well ");
     }
 
 }
