@@ -15,6 +15,7 @@ public class Ali {
     public static void main(String[] args) {
         System.out.println("this is main method from olaSenior");
         System.out.println("Well well well ");
+        System.out.println("new message");
     }
 
 }
