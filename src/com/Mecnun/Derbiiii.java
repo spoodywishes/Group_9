@@ -10,6 +10,7 @@ public class Derbiiii {
         int gs,fb;
 
         System.out.println("bence gs 1 - 1 fb");
+        //fenerlisin galiba
 
     }
 }
